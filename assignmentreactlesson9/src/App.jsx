@@ -1,5 +1,5 @@
 
-import InputComponent from './Inputcomponent.jsx';
+import InputComponent from './InputComponent.jsx';
 import './InputComponent.css'; // Import the CSS file
 
 
